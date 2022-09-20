@@ -15,6 +15,6 @@ pytz==2020.4
 requests==2.24.0
 six==1.15.0
 sqlparse==0.4.1
-urllib3==1.25.11
+urllib3==1.26.5
 virtualenv==20.1.0
 virtualenv-clone==0.5.4
